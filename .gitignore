@@ -1,0 +1,22 @@
+# Entorno virtual local
+env/
+venv/
+.env/
+
+# Cache de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos y carpetas temporales generados por la aplicacion
+PDF/
+TRANSFORM/
+exports/pdf/
+exports/txt/
+
+# IDEs y archivos de sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
