@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Carta Trasera (Inclinada en abanico - Púrpura / Índigo con borde blanco de alto contraste) -->
+  <g transform="rotate(-14 11 18)">
+    <rect x="2" y="4" width="18" height="25" rx="3.5" fill="#6366f1" stroke="#ffffff" stroke-width="1.8"/>
+    <rect x="4.5" y="6.5" width="13" height="20" rx="2" fill="none" stroke="#c7d2fe" stroke-width="1.2"/>
+    <path d="M11 12 L14.5 16.5 L11 21 L7.5 16.5 Z" fill="#4f46e5" stroke="#ffffff" stroke-width="1"/>
+  </g>
+
+  <!-- Carta Frontal (Azul Torneo / Cian con borde blanco nítido y prisma de cristal dorado) -->
+  <g>
+    <!-- Borde exterior blanco para máxima visibilidad en pestañas oscuras -->
+    <rect x="11.5" y="3.5" width="18" height="25" rx="3.5" fill="#0284c7" stroke="#ffffff" stroke-width="1.8"/>
+    <!-- Marco interior de la carta -->
+    <rect x="13.5" y="5.5" width="14" height="21" rx="2" fill="#0369a1" stroke="#7dd3fc" stroke-width="1"/>
+    <!-- Ventana superior de arte -->
+    <rect x="15" y="7" width="11" height="8.5" rx="1.5" fill="#38bdf8"/>
+    <circle cx="20.5" cy="11.2" r="2" fill="#ffffff"/>
+    <!-- Recuadro inferior de texto de reglas -->
+    <rect x="15" y="17.2" width="11" height="7.3" rx="1.5" fill="#0c4a6e"/>
+    <!-- Prisma / Símbolo de cristal / Rareza TCG dorada -->
+    <path d="M20.5 18.5 L22.5 20.8 L20.5 23.2 L18.5 20.8 Z" fill="#fbbf24" stroke="#ffffff" stroke-width="0.6"/>
+  </g>
+</svg>

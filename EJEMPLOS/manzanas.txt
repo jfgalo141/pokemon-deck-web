@@ -1,0 +1,35 @@
+Pokémon: 10
+1 Psyduck MEP 7
+2 Thwackey TWM 15
+1 Rellor TEF 23
+4 Applin TWM 17
+3 Dipplin TWM 18
+1 Rabsca TEF 24
+4 Grookey TWM 14
+2 Goldeen TWM 44
+1 Seaking PRE 21
+2 Thwackey PR-SV 115
+
+Entrenador: 16
+2 Bug Catching Set TWM 143
+1 Secret Box TWM 163
+4 Festival Grounds TWM 149
+4 Poké Pad POR 81
+1 Gladion's Final Battle PBL 77
+1 Night Stretcher ASC 196
+1 Switch MEW 206
+1 Kieran TWM 154
+1 Gladion's Final Battle PBL 118
+2 Ultra Ball BRS 186
+1 Sacred Ash POR 115
+4 Buddy-Buddy Poffin TEF 144
+2 Brave Bangle WHT 80
+4 Lillie's Determination MEG 119
+2 Air Balloon ASC 181
+2 Boss's Orders MEG 114
+
+Energía: 2
+5 Basic {G} Energy MEE 1
+1 Growing {G} Energy POR 86
+
+Cartas totales: 60

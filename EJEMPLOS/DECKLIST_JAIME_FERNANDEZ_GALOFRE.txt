@@ -1,0 +1,33 @@
+Pokémon: 11
+1 Passimian SSP 111
+2 Latias ex SSP 76
+2 Raging Bolt ex TEF 123
+3 Teal Mask Ogerpon ex TWM 25
+1 Cornerstone Mask Ogerpon ex TWM 112
+2 Mega Kangaskhan ex MEG 104
+1 Fezandipiti ex ASC 142
+1 Lillie's Clefairy ex JTG 56
+2 Meowth ex POR 62
+1 Iron Leaves ex PRE 176
+1 Teal Mask Ogerpon ex PRE 12
+
+Entrenador: 11
+2 Cyrano SSP 170
+2 Bug Catching Set TWM 143
+1 Unfair Stamp TWM 165
+1 Energy Retrieval SVI 171
+2 Night Stretcher ASC 196
+4 Area Zero Underdepths SCR 131
+4 Crispin SCR 133
+3 Lillie's Determination MEG 119
+4 Ultra Ball MEG 131
+2 Boss's Orders MEG 114
+2 Energy Switch MEG 115
+
+Energía: 4
+1 Basic {P} Energy Energy 13
+3 Basic {L} Energy MEE 4
+3 Basic {F} Energy MEE 6
+9 Basic {G} Energy MEE 1
+
+Cartas totales: 60
